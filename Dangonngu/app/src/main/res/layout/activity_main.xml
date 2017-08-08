@@ -31,14 +31,17 @@
         android:layout_height="wrap_content"
         android:text="@string/muathu" />
 
+
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="TextView" />
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/textView2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="TextView2" />
+=======
+>>>>>>> parent of 0d66f11... da them textview
 </LinearLayout>
