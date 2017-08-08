@@ -5,3 +5,4 @@ git commit -a -m :"ghi chu"
 git status
 //Xem lich su
 git log
+mmmm
